@@ -1,0 +1,17 @@
+*{
+    
+}
+
+body{
+    background-color: #F2F2B6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.triangulo {
+    border: 80px solid transparent;
+    border-top: 125px solid #FF6D00;
+    border-bottom: 0;
+    margin:0;
+  }
